@@ -1,0 +1,6 @@
+name: trail_test
+channels:
+  - conda-forge
+dependencies:
+  - pip:
+    - trailml==1.2.2
