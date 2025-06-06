@@ -1,0 +1,1 @@
+Download from: https://www.kaggle.com/competitions/GiveMeSomeCredit/data

@@ -1,0 +1,24 @@
+                      Train_set   Monte-Carlo CV         
+                                            mean      std
+roc_auc                  0.8845           0.8618   0.0040
+average_precision        0.4663           0.3955   0.0104
+precision_lift           7.0896           6.5451   0.1214
+precision                0.4739           0.4374   0.0081
+recall                   0.4739           0.4374   0.0081
+TNR (neg. recall)        0.9623           0.9597   0.0006
+NPV (neg. precis.)       0.9623           0.9597   0.0006
+FOR (default rate)       0.0377           0.0403   0.0006
+FOR_lift                 0.5638           0.6028   0.0087
+F1                       0.4739           0.4374   0.0081
+F2                       0.4739           0.4374   0.0081
+accuracy                 0.9297           0.9248   0.0011
+tn                  134699.0000       26867.0300  16.2763
+fp                    5275.0000        1127.9700  16.2763
+fn                    5275.0000        1127.9300  16.2526
+tp                    4751.0000         877.0700  16.2526
+base_rate                0.0668           0.0668   0.0000
+class_threshold          0.2681           0.2684   0.0050
+nr_in_target tp+fp   10026.0000        2005.0400   0.1969
+true_targets tp+fn   10026.0000        2005.0000   0.0000
+threshold_pcentile       0.9332           0.9332   0.0000
+neg_pred_mean            0.0398           0.0398   0.0005
